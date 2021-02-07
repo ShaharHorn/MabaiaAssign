@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74bd3084-be29-4b0d-9d66-dacbbb060204" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1o13WTOSKhDK0zqXcr6p9Vd394H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/mappers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2724138" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sponsoredAd" />
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\OneDrive\Desktop\as\OnlineSponsoredAd\src\main\java\mappers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MabaiaApplication">
+    <configuration name="MabaiaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sponsoredAd.MabaiaApplication" />
+      <module name="OnlineSponsoredAd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in OnlineSponsoredAd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OnlineSponsoredAd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MabaiaApplication" />
+        <item itemvalue="JUnit.All in OnlineSponsoredAd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FinityX/spark-starter-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FinityX/spark-starter-master1/spark-starter-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FinityX/spark-starter-master11/spark-starter-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bd3084-be29-4b0d-9d66-dacbbb060204" name="Default Changelist" comment="" />
+      <created>1612440300998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612440300998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="72" key="#Auto_Import" timestamp="1612485391690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="72" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1612485391690" />
+    <state x="362" y="72" key="#Project_Structure" timestamp="1612633245792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1612633245792" />
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612626423282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1612626423282" />
+    <state x="575" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1612644113089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612644113088" />
+    <state x="402" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1612626958860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="402" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1612626958860" />
+    <state x="566" y="273" width="404" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612627600287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="404" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1612627600287" />
+    <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1612627438974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1612627438974" />
+    <state x="524" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612486004667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1612486004667" />
+    <state x="1050" y="206" key="#xdebugger.evaluate" timestamp="1612690532277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1050" y="206" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1612690532277" />
+    <state width="550" height="466" key="DebuggerActiveHint" timestamp="1612691145175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="550" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1612691145175" />
+    <state x="579" y="168" key="FileChooserDialogImpl" timestamp="1612621323793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612621323793" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1612690756748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612639401389" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612690756748" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1612690756748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1612639401389" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612690756748" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1612690756748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1612639401389" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612690756748" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1612690756748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1612639401389" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612690756748" />
+    <state width="1493" height="189" key="GridCell.Tab.1.bottom" timestamp="1612690733812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612639401387" />
+    <state width="1493" height="189" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612690733812" />
+    <state width="1493" height="189" key="GridCell.Tab.1.center" timestamp="1612690733811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1612639401386" />
+    <state width="1493" height="189" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612690733811" />
+    <state width="1493" height="189" key="GridCell.Tab.1.left" timestamp="1612690733811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1612639401386" />
+    <state width="1493" height="189" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612690733811" />
+    <state width="1493" height="189" key="GridCell.Tab.1.right" timestamp="1612690733812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1612639401387" />
+    <state width="1493" height="189" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612690733812" />
+    <state x="279" y="0" key="SettingsEditor" timestamp="1612628938393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612628938393" />
+    <state x="94" y="94" width="1349" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1612630790108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="94" y="94" width="1349" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1612630790108" />
+    <state x="500" y="169" key="extract.method.dialog" timestamp="1612653719314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="169" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1612653719314" />
+    <state x="461" y="144" width="615" height="536" key="find.popup" timestamp="1612626131655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="144" width="615" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1612626131655" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1612652900213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1612652900213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sponsoredAd/controllers/campaignsController.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sponsoredAd/services/SponsoredAdServiceImp.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sponsoredAd/controllers/campaignsController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
